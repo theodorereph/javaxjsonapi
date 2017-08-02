@@ -1,0 +1,4 @@
+[
+  {"employeeId":100, "firstName":"Theodore", "lastName":"Reph", "birthDate":"1964-12-05", "phoneNumberList":["215-350-9980", "215-345-8943"]},
+  {"employeeId":101, "firstName":"Juliana", "lastName":"Reph", "birthDate":"1986-09-15"}
+]
